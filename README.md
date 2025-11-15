@@ -115,7 +115,7 @@ I’m always learning and have hands-on experience with a wide range of technolo
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CollinX0108&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=CollinX0108&theme=onedark&no-frame=true&margin-w=4&column=7)
 
 ---
 
